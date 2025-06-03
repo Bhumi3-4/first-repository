@@ -1,4 +1,4 @@
-# first-repository
-This is my first Git Repository
+#Amazon clone
+#html #css
 <br>
-author-bhumi patil
+author-Bhumi Patil
